@@ -1,6 +1,6 @@
 SCRIPT FOR TERMUX
 
-$ https://github.com/Boiescylosh/AI.git
+$ git clone https://github.com/Boiescylosh/AI.git
 
 $ cd AI
 
