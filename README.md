@@ -6,6 +6,6 @@ $ cd AI
 
 $ ls
 
-$ AI.py
+$ python AI.py
 
 HAPPY ENJOYING
