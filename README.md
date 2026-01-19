@@ -1,4 +1,4 @@
-TEST ON APP CODE
+TEST ON APP CODES
 
 ### Installation ( TERMUX )
 
