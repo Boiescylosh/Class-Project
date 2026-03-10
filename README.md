@@ -1,5 +1,3 @@
-TEST ON APP CODES
- 
 # Installation 
 
 1. git clone https://github.com/Boiescylosh/Class-Project.git
