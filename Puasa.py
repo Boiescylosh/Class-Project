@@ -43,12 +43,6 @@ def membaca_teks_dan_kuis():
     )
     print(colored("\n--- Materi Puasa Ramadhan ---", 'magenta', attrs=['bold']))
     print(colored(paragraf, 'white'))
-    
-    
-
-[Image of the moon phases in Ramadan]
-
-
     print(colored("--- Kuis Puasa Ramadhan ---", 'magenta', attrs=['bold']))
 
     pertanyaan = [
