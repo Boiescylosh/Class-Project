@@ -19,11 +19,13 @@ def tampil_piramida():
     ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+  
        HAJI&UMROH
     """ + Style.RESET_ALL)
 
 def tampil_kelompok():
-    print(Fore.CYAN + "=== KELOMPOK PEMBELAJARAN ===")
+    print(Fore.CYAN + "=== PARA WALI ===")
+    print("")
     anggota = [
         "Paiz Efendi Nurjen",
         "Rina Yulianingtiyas Hajir",
