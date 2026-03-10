@@ -36,7 +36,7 @@ Jika mau mengetes di App code lainnya silahkan, tinggal copy code tiap filenya
 ![Acode](https://img.shields.io/badge/Acode-2196F3?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![QPython](https://img.shields.io/badge/QPython-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Sololearn](https://img.shields.io/badge/Sololearn-EF4444?style=for-the-badge&logo=sololearn&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-1D2021?style=for-the-badge&logo=termux&logoColor=4EED64)
