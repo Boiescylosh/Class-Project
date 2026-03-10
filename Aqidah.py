@@ -17,8 +17,7 @@ def header():
     print(r"                $$ |                                  ")
     print(r"                \__|                                  ")
     print(Style.RESET_ALL)
-    print(Fore.CYAN + "[T] [o] [o] [l]   [K] [e] [l] [o] [m] [p] [o] [k]")
-    print()
+    print(Fore.CYAN + "[T] [o] [o] [l]   [K] [e] [l] [o] [m] [p] [o] [k]"    )
 
 def warning():
     print(Fore.RED + Style.BRIGHT + "[!] Tugas Kelompok [!]")
@@ -32,7 +31,6 @@ def menu():
     print(Fore.RED + "[0] Keluar")
     print(Style.RESET_ALL)
 
-# Silakan ganti nama anggota di sini
 anggota = ["Nama1", "Nama2", "Nama3"]
 
 def tampilkan_nama_kelompok():
