@@ -40,7 +40,7 @@ def tampilkan_menu():
     cprint("[3] Tampilkan Nama Anggota Kelompok", "magenta")
     cprint("[0] Keluar", "red", attrs=["bold"])
 
-def materi_konstatinovel():
+def materi_Konstatinopel():
     cprint("\nMateri Konstantinopel:", "yellow", attrs=["bold"])
     paragraf = [
         "Konstantinopel adalah ibu kota Kekaisaran Romawi Timur...",
@@ -59,17 +59,17 @@ def main():
         pilihan = input(colored("\nPilih nomor menu: ", "cyan"))
         
         if pilihan == "1":
-            materi_konstatinovel()
+            materi_Konstatinopel()
         elif pilihan == "2":
             cprint("\nTeks Sejarah Konstantinopel:", "yellow", attrs=["bold"])
             cprint("   Konstantinopel didirikan oleh Kaisar Konstantinus Agung...", "white")
         elif pilihan == "3":
             tampilkan_nama_kelompok()
         elif pilihan == "0":
-            cprint("\nSampai jumpa, Beauty Girls! Keluar...", "red", attrs=["bold"])
+            cprint("\nSampai jumpa...", "red", attrs=["bold"])
             break
         else:
-            cprint("Pilihan tidak valid, coba lagi bre!", "red")
+            cprint("Pilihan tidak valid, coba lagi", "red")
 
 if __name__ == "__main__":
     main()
