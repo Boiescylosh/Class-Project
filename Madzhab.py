@@ -6,17 +6,17 @@ def garis():
     print(Fore.YELLOW + "="*70)
 
 def tampil_ascii():
-
     print(Fore.LIGHTYELLOW_EX + Style.BRIGHT)
-    print(r"  __  __       _        ____      _____    _   _       _         ____   ")
-    print(r"U|' \/ '|u U  /"\  u   |  _"\    |"_  /u  |'| |'|  U  /"\  u  U | __")u ")
-    print(r"\| |\/| |/  \/ _ \/   /| | | |   U / //  /| |_| |\  \/ _ \/    \|  _ \/ ")
-    print(r" | |  | |   / ___ \   U| |_| |\  \/ /_   U|  _  |u  / ___ \     | |_) | ")
-    print(r" |_|  |_|  /_/   \_\   |____/ u  /____|   |_| |_|  /_/   \_\    |____/  ")
-    print(r"<<,-,,-.    \\    >>    |||_     _//<<,-  //   \\   \\    >>   _|| \\_  ")
-    print(r" (./  \.)  (__)  (__)  (__)_)   (__) (_/ (_") ("_) (__)  (__) (__) (__) ")
+    
+    print(r'''  __  __       _        ____      _____    _   _       _         ____   ''')
+    print(r'''U|' \/ '|u U  /"\  u   |  _"\    |"_  /u  |'| |'|  U  /"\  u  U | __")u ''')
+    print(r'''\| |\/| |/  \/ _ \/   /| | | |   U / //  /| |_| |\  \/ _ \/    \|  _ \/ ''')
+    print(r''' | |  | |   / ___ \   U| |_| |\  \/ /_   U|  _  |u  / ___ \     | |_) | ''')
+    print(r''' |_|  |_|  /_/   \_\   |____/ u  /____|   |_| |_|  /_/   \_\    |____/  ''')
+    print(r'''<<,-,,-.    \\    >>    |||_     _//<<,-  //   \\   \\    >>   _|| \\_  ''')
+    print(r''' (./  \.)  (__)  (__)  (__)_)   (__) (_/ (_" ("_) (__)  (__) (__) (__) ''')
     print(Style.RESET_ALL)
-
+    
 def tampil_kelompok(kelompok):
     print(Fore.CYAN + Style.BRIGHT + "Nama Kelompok:")
     for anggota in kelompok:
@@ -29,7 +29,6 @@ def tampil_menu():
     print(Fore.RED + "[0] Keluar")
 
 def main():
-    # Daftar anggota sesuai permintaan
     kelompok = ["Nasywa Mufidah", "Naura Firda", "Neneng Novita", "Neng Feby"]
     
     tampil_ascii()
