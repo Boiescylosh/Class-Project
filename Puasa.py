@@ -9,7 +9,8 @@ def ascii_art():
     print(colored(r"  \: ___\/   \:\ \:\ \    \:: __  \ \    \_::._\:\    \:: __  \ \  ", 'yellow', attrs=['bold']))
     print(colored(r"   \ \ \      \:\_\:\ \    \:.\ \  \ \     /____\:\    \:.\ \  \ \ ", 'yellow', attrs=['bold']))
     print(colored(r"    \_\/       \_____\/     \__\/\__\/     \_____\/     \__\/\__\/ ", 'yellow', attrs=['bold']))
-    print(colored("        MENU PEMBELAJARAN PUASA RAMADHAN     ", 'cyan', attrs=['bold']))
+    print("")
+    print(colored("  MENU PEMBELAJARAN PUASA RAMADHAN  ", 'cyan', attrs=['bold']))
     print(colored("="*67, 'magenta'))
 
 def tampilkan_nama_kelompok():
