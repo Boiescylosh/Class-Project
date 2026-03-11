@@ -2,8 +2,9 @@
 
 1. git clone https://github.com/Boiescylosh/Class-Project.git
 2. cd Class-Project
-3. ls
-4. python AI.py atau mau yang lain
+3. pip install -r requirement.txt
+4. ls
+5. python AI.py atau mau yang lain
 
 # Information
 jika di VSCode, copy aja codenya lalu paste di file python, jika ada tulisan colorama atau yang lainnya di terminal tinggal ketik pip install colorama. Kalo masih terjadi error
